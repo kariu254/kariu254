@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @kariu254
-- 👀 I’m interested in aviation
-- 🌱 I’m currently learning BIT
-- 💞️ I’m looking to collaborate on web dev saf
-- 📫 How to reach me ...
-- 😄 Pronouns: he
-- ⚡ Fun fact: ambivert
-
-<!---
-kariu254/kariu254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Amkar!  
+🎓 Student & Graphic Designer (Canva) exploring the intersection of design and technology.  
+🚀 Passionate about **open-source** and leveraging tech to create practical solutions.  
+🌱 Current goal: Deepen my tech knowledge, stay updated with trends, and contribute meaningfully.  
+💡 Fun fact: I believe design and code can work together to solve real-world problems!  
